@@ -1,0 +1,9 @@
+.DS_Store
+build
+flutter_build
+android
+ios
+linux
+macos
+web
+windows
